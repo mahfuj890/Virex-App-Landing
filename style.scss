@@ -606,7 +606,7 @@ button:hover {
   position: relative;
 
   .hero_container {
-    background-image: url("/assets/Images/shape4.png");
+    background-image: url("assets/Images/shape4.png");
     @include background-image();
 
   }
@@ -873,7 +873,7 @@ button:hover {
 
 /* =============  Archive Section  ============= */
 .archive_section {
-  background-image: url('/assets/Images/office-583841_1920.jpg');
+  background-image: url('assets/Images/office-583841_1920.jpg');
   @include background-image();
 
   padding: 5rem 0;
@@ -1336,7 +1336,7 @@ button:hover {
 
 /* ============= Video Features Sectio  ============= */
 .video_features_wrapper {
-  background-image: url('/assets/Images/video-thumb.png');
+  background-image: url('assets/Images/video-thumb.png');
   @include background-image();
 
   height: 48rem;
@@ -1777,7 +1777,7 @@ button:hover {
 /* ============= Showcase Section  ============= */
 
 .showcase_wrapper {
-  background-image: url('/assets/Images/showcase.svg');
+  background-image: url('assets/Images/showcase.svg');
   @include background-image();
   background-attachment: fixed;
 
@@ -1955,7 +1955,7 @@ button:hover {
   .solution_left_screen_area {
 
 
-    background-image: url("/assets/Images/Bubble\ shape.svg");
+    background-image: url("assets/Images/Bubble\ shape.svg");
     @include background-image();
     background-size: contain;
     margin-top: -9rem;
@@ -2151,7 +2151,7 @@ button:hover {
 
 /* ============= App Background Section  ============= */
 .app_background_wrapper {
-  background-image: url("/assets/Images/app\ background.jpg");
+  background-image: url("assets/Images/app\ background.jpg");
   @include background-image();
   padding: 12rem 0;
   margin-top: 3rem;
@@ -2425,7 +2425,7 @@ button:hover {
 
 /* ============= Newsletter Section ============= */
 .newsletter_wrapper {
-  background-image: url("/assets/Images/newsletter.jpg");
+  background-image: url("assets/Images/newsletter.jpg");
   @include background-image();
   padding: 10rem 0;
   margin-top: 6rem;

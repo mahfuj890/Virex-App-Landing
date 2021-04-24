@@ -498,7 +498,7 @@ button:hover {
 }
 
 .hero_wrapper .hero_container {
-  background-image: url("/assets/Images/shape4.png");
+  background-image: url("assets/Images/shape4.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -813,7 +813,7 @@ button:hover {
 
 /* =============  Archive Section  ============= */
 .archive_section {
-  background-image: url("/assets/Images/office-583841_1920.jpg");
+  background-image: url("assets/Images/office-583841_1920.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -1253,7 +1253,7 @@ button:hover {
 
 /* ============= Video Features Sectio  ============= */
 .video_features_wrapper {
-  background-image: url("/assets/Images/video-thumb.png");
+  background-image: url("assets/Images/video-thumb.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -1696,7 +1696,7 @@ button:hover {
 
 /* ============= Showcase Section  ============= */
 .showcase_wrapper {
-  background-image: url("/assets/Images/showcase.svg");
+  background-image: url("assets/Images/showcase.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -1899,7 +1899,7 @@ button:hover {
 }
 
 .solution_section .solution_left_screen_area {
-  background-image: url("/assets/Images/Bubble shape.svg");
+  background-image: url("assets/Images/Bubble shape.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -2076,7 +2076,7 @@ button:hover {
 
 /* ============= App Background Section  ============= */
 .app_background_wrapper {
-  background-image: url("/assets/Images/app background.jpg");
+  background-image: url("assets/Images/app background.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -2311,7 +2311,7 @@ button:hover {
 
 /* ============= Newsletter Section ============= */
 .newsletter_wrapper {
-  background-image: url("/assets/Images/newsletter.jpg");
+  background-image: url("assets/Images/newsletter.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
