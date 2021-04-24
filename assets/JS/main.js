@@ -1,30 +1,30 @@
-jQuery(document).ready(function () {
+$(document).ready(function () {
   //  sticky navbar
-  jQuery(window).scroll(function () {
-    if (jQuery(window).scrollTop() > 0) {
-      jQuery('.navbar_wrapper ').addClass("navbar-fixed");
+  $(window).scroll(function () {
+    if ($(window).scrollTop() > 0) {
+      $('.navbar_wrapper ').addClass("navbar-fixed");
     } else {
-      jQuery('.navbar_wrapper ').removeClass("navbar-fixed");
+      $('.navbar_wrapper ').removeClass("navbar-fixed");
     }
 
   });
-  jQuery(".bar_line").click(function () {
-    jQuery(this).hide();
-    jQuery(".times_icon").show();
-    jQuery(".right_shapes").hide();
+  $(".bar_line").click(function () {
+    $(this).hide();
+    $(".times_icon").show();
+    $(".right_shapes").hide();
 
   });
-  jQuery(".times_icon").click(function () {
-    jQuery(this).hide();
-    jQuery(".bar_line").show();
-    jQuery(".right_shapes").show();
+  $(".times_icon").click(function () {
+    $(this).hide();
+    $(".bar_line").show();
+    $(".right_shapes").show();
 
 
   });
 
   // Multi Level Nested Dropdown and Navbar
-  jQuery("#navbar").bootnavbar();
-  jQuery("#home_current").mouseenter(function () {
+  $("#navbar").bootnavbar();
+  $("#home_current").mouseenter(function () {
 
 
   });
@@ -32,7 +32,7 @@ jQuery(document).ready(function () {
 
 
   // Waypoint For Counter
-  jQuery('.counter').counterUp({
+  $('.counter').counterUp({
     delay: 10,
     time: 1200
   });
@@ -74,7 +74,7 @@ var swiper = new Swiper('.swiper-container2', {
 });
 
 // AOS On Page Scroll JS
-jQuery(function() {
+$(function() {
   AOS.init({
     duration: 1100,
     offest: 50,
